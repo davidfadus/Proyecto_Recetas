@@ -1136,5 +1136,943 @@
         ],
         "titulo": "Yogurt Casero de Larga Duración",
         "url_original": "https://www.youtube.com/watch?v=xZpdWESnLRw"
+    },
+    {
+        "calidad_alimenticia": "poco saludable",
+        "comida": "Desayuno/Merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Grasas a Limitar"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Carbohidratos",
+            "Grasas a Limitar",
+            "Proteínas"
+        ],
+        "pasos": [
+            "En una sartén, coloca las 2 bananas cortadas, 15g de mantequilla y 30g de azúcar. Cocina a fuego bajo hasta que el azúcar se disuelva y se forme un caramelo. Retira del fuego inmediatamente.",
+            "En un bol aparte, mezcla 50g de azúcar, 1 huevo, extracto de vainilla y una pizca de sal.",
+            "Añade 50ml de aceite vegetal y 100ml de leche a la mezcla, batiendo bien.",
+            "Incorpora 180g de harina y 8g de polvo para hornear a la mezcla húmeda y remueve hasta obtener una masa homogénea.",
+            "Vierte la masa sobre las bananas caramelizadas en la sartén.",
+            "Cocina a fuego bajo durante 10-15 minutos.",
+            "Con cuidado, gira la torta (puedes ayudarte con un plato) y cocina por el otro lado durante otros 10 minutos."
+        ],
+        "tags_ingredientes": [
+            "Banana",
+            "Mantequilla",
+            "Azúcar",
+            "Huevo",
+            "Extracto de vainilla",
+            "Sal",
+            "Aceite vegetal",
+            "Leche",
+            "Harina",
+            "Polvo para hornear"
+        ],
+        "titulo": "Torta de Banana Caramelizada en Sartén",
+        "url_original": "https://www.youtube.com/watch?v=X0vRgpEdIFY"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "almuerzo/cena",
+        "componentes_criticos": [
+            "Sodio",
+            "Fibra"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Cortar 3 calabacines en juliana o rallarlos.",
+            "Añadir 1 cucharadita de sal a los calabacines cortados y mezclar. Dejar reposar por 15 minutos.",
+            "Picar 1 cebolla.",
+            "Calentar 3-4 cucharadas de aceite vegetal en una sartén. Añadir la cebolla picada y sofreír hasta que se ablande.",
+            "Cortar 1 zanahoria en juliana y añadirla a la cebolla ablandada. Freír por 2 minutos.",
+            "Cortar 1 pimiento rojo en trozos medianos. Añadir el pimiento a la sartén y freír por 2-3 minutos.",
+            "Picar perejil.",
+            "Añadir 1 cucharadita de sal y 1 cucharadita de pimienta negra a los vegetales en la sartén y mezclar.",
+            "Escurrir el agua de los calabacines después de los 15 minutos de reposo.",
+            "Combinar los calabacines escurridos con los vegetales cocidos (cebolla, zanahoria, pimiento) y el perejil picado. Mezclar bien.",
+            "En un recipiente aparte, batir 3 huevos, 1.5 tazas (300 ml) de leche y 2 tazas (240 gramos) de harina hasta obtener una mezcla homogénea.",
+            "Verter la mezcla de huevos, leche y harina sobre los vegetales y mezclar todo.",
+            "Cubrir una bandeja para hornear con papel de horno y aceitarlo.",
+            "Extender la mezcla en la bandeja preparada.",
+            "Hornear en el horno precalentado a 200 \rC por aproximadamente 35 minutos.",
+            "Después de 35 minutos, retirar del horno y espolvorear 150 gramos de queso cheddar rallado por encima.",
+            "Hornear nuevamente a 200 \rC por otros 15 minutos.",
+            "Servir."
+        ],
+        "tags_ingredientes": [
+            "Calabacín",
+            "Sal",
+            "Cebolla",
+            "Aceite vegetal",
+            "Zanahoria",
+            "Pimiento rojo",
+            "Perejil",
+            "Pimienta negra",
+            "Huevos",
+            "Leche",
+            "Harina",
+            "Queso Cheddar"
+        ],
+        "titulo": "Pastel de Calabacín y Vegetales al Horno",
+        "url_original": "https://www.youtube.com/watch?v=IwihxJo8t1Y"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Separar las claras de las yemas de 5 huevos.",
+            "Añadir 2 cucharaditas de azúcar y 1 cucharada de cacao a las yemas. Mezclar bien.",
+            "Añadir 2 cucharaditas de azúcar a las claras. Batir ligeramente.",
+            "Derretir mantequilla en una sartén.",
+            "Verter la mezcla de yemas en la sartén y freír por 1 minuto.",
+            "Incorporar las claras batidas a la sartén con las yemas y freír todo junto por 5 minutos, o hasta que esté cocido a gusto."
+        ],
+        "tags_ingredientes": [
+            "Huevos",
+            "Azúcar",
+            "Cacao",
+            "Mantequilla"
+        ],
+        "titulo": "Huevos Revueltos Dulces con Cacao",
+        "url_original": "https://www.youtube.com/watch?v=vt5qxoTuakc"
+    },
+    {
+        "calidad_alimenticia": "Poco saludable",
+        "comida": "Desayuno/Merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Grasas a Limitar"
+        ],
+        "dificultad": "Intermedio",
+        "disponibilidad_santa_fe": "Altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Carbohidratos",
+            "Proteínas",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "En un bol, cremar 100g de mantequilla con 200g de azúcar impalpable hasta obtener una mezcla suave.",
+            "Añadir 5 huevos, uno a uno, batiendo bien después de cada adición.",
+            "Incorporar la ralladura de limón.",
+            "Agregar 250g de harina y mezclar hasta que se integre por completo, formando la masa de la base.",
+            "Extender la masa en un molde para tarta.",
+            "Pelar y cortar 4 manzanas en rodajas y distribuirlas uniformemente sobre la masa.",
+            "En otro bol, mezclar 250g de crema agria con 3 huevos, 1 cucharadita de canela y 1 cucharada de azúcar.",
+            "Verter esta mezcla sobre las manzanas en el molde.",
+            "Hornear en un horno precalentado a 180°C (356°F) durante aproximadamente 35 minutos, o hasta que esté dorado y cocido."
+        ],
+        "tags_ingredientes": [
+            "mantequilla",
+            "azúcar impalpable",
+            "huevos",
+            "ralladura de limón",
+            "harina",
+            "manzanas",
+            "crema agria",
+            "canela",
+            "azúcar"
+        ],
+        "titulo": "Tarta de Manzana de Mannheimer",
+        "url_original": "https://www.youtube.com/watch?v=OZcmCk2pH4Y"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Sodio"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Grasas Saludables",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Vierta 1.5 litros de nata (crema de leche) con 33-35% de grasa en un recipiente para batir.",
+            "Bata la nata con una batidora potente. Después de unos 5 minutos, la nata comenzará a espesar.",
+            "Continúe batiendo hasta que la mantequilla se separe del suero de leche (buttermilk).",
+            "Separe la mantequilla del suero de leche.",
+            "Lave la mantequilla colocándola en agua helada por 5 minutos para eliminar el suero restante. Escurra bien.",
+            "Forme la mantequilla en porciones, si lo desea.",
+            "Envuelva la mantequilla en papel film.",
+            "Refrigere por 3 horas.",
+            "Para una mejor conservación, guarde la mantequilla envuelta en papel de cocina."
+        ],
+        "tags_ingredientes": [
+            "Nata",
+            "Agua Helada"
+        ],
+        "titulo": "Mantequilla Casera",
+        "url_original": "https://www.youtube.com/watch?v=arCzflCjzKQ"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Fibra"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Pelar y cortar en cubos 5 plátanos o bananas (aproximadamente 500 gramos).",
+            "En una cacerola o sartén, derretir 50 gramos de mantequilla (sin sal preferentemente).",
+            "Añadir los plátanos cortados a la mantequilla derretida.",
+            "Agregar el jugo de medio limón (unos 30 mililitros).",
+            "Remover de vez en cuando y hervir por un tiempo determinado.",
+            "Mientras hierve a fuego lento, machacar los plátanos con un tenedor o prensapurés.",
+            "Retirar la cacerola del fuego y añadir un poco de leche al puré de plátano caliente.",
+            "Mezclar para integrar la leche.",
+            "Añadir 50 gramos de maicena y tres yemas de huevo (si se usa harina de trigo, la cantidad sería 100 gramos).",
+            "Mezclar nuevamente y añadir el resto de la leche. La cantidad total de leche es de 300 mililitros (puede ser fría o caliente).",
+            "Opcionalmente, triturar la mezcla un poco más para una textura más fina.",
+            "Volver a llevar la cacerola al fuego.",
+            "Añadir una cucharadita generosa de esencia de vainilla.",
+            "Remover constantemente y hervir la crema hasta que espese.",
+            "Transferir la crema de banana a un recipiente (preferiblemente de acero o vidrio).",
+            "Cubrir la crema con plástico film (tocando la superficie) y dejar enfriar por un mínimo de 2 horas (primero a temperatura ambiente y luego en la nevera).",
+            "Una vez fría y endurecida, batir la crema de banana en un bol aparte para darle cremosidad.",
+            "En otro bol, añadir 500 ml de crema de leche muy fría y batir hasta que esté firme.",
+            "Incorporar la crema de banana batida a la crema de leche montada y batir hasta obtener una crema firme, fina y espesa.",
+            "Esta crema se puede preparar con un día de antelación y dura hasta cinco días en la nevera.",
+            "Esta cantidad es suficiente para rellenar y cubrir una tarta de 15 o 18 cm de diámetro y 10 cm de alto, o para decorar 24 cupcakes grandes."
+        ],
+        "tags_ingredientes": [
+            "Plátano",
+            "Banana",
+            "Mantequilla",
+            "Limón",
+            "Leche",
+            "Maicena",
+            "Yemas de huevo",
+            "Esencia de vainilla",
+            "Crema de leche"
+        ],
+        "titulo": "Relleno Cremoso de Plátano o Banana para Postres",
+        "url_original": "https://www.youtube.com/watch?v=qg1KhrXVnWQ"
+    },
+    {
+        "calidad_alimenticia": "muy saludable",
+        "comida": "almuerzo/cena",
+        "componentes_criticos": [
+            "Sodio",
+            "Fibra"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables"
+        ],
+        "pasos": [
+            "Picar el ajo en trozos no muy pequeños.",
+            "Cocinar el ajo en aceite a fuego medio.",
+            "Añadir un puñado de perejil picado (fresco es mucho mejor) e integrar con el ajo y el aceite.",
+            "Dejar cocinar por dos minutos más, revolviendo constantemente.",
+            "Con los ingredientes integrados y ligeramente tostados, añadir medio vaso de vino blanco (completamente opcional).",
+            "Esperar unos minutos a fuego medio para que el alcohol se evapore.",
+            "Mientras tanto, en abundante agua hirviendo con un buen puñado de sal, añadir los espaguetis (o pasta fina).",
+            "Sin tocar los espaguetis, esperar a que se ablanden y entren en el agua por sí solos.",
+            "Una vez dentro, remover de vez en cuando para asegurar que no se peguen al fondo.",
+            "Cocinar la pasta según el gusto: 7 minutos para al dente, 2 o 3 minutos más (hasta 10 minutos) para una textura más suave.",
+            "Una vez cocida la pasta (al dente, por ejemplo), reservar un poco del agua de cocción para ligar la salsa.",
+            "Escurrir el resto de la pasta.",
+            "Añadir la pasta escurrida a la salsa de ajo, perejil y vino blanco que teníamos medio cocida.",
+            "Añadir también un par de latas de atún en conserva.",
+            "Incorporar el caldo de cocción de la pasta que se había reservado (este caldo ya aporta sal y sabor).",
+            "Integrar todos los ingredientes juntos, sin apagar el fuego en ningún momento.",
+            "Dejar que los espaguetis terminen de cocinarse en la salsa, absorbiendo el agua de cocción y el sabor de la salsa de ajo.",
+            "Servir los espaguetis cremosos de ajo con atún."
+        ],
+        "tags_ingredientes": [
+            "Ajo",
+            "Aceite",
+            "Perejil",
+            "Vino blanco",
+            "Espaguetis",
+            "Sal",
+            "Atún en conserva",
+            "Agua de cocción de pasta"
+        ],
+        "titulo": "Espaguetis Cremosos de Ajo con Atún",
+        "url_original": "https://www.youtube.com/watch?v=3uU3garE82Y"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares"
+        ],
+        "dificultad": "intermedio",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables"
+        ],
+        "pasos": [
+            "Separar las yemas de las claras de 4 huevos.",
+            "En un bol, mezclar las yemas de huevo con 100 gramos de azúcar.",
+            "Añadir 400 gramos de yogur natural a la mezcla de yemas y azúcar.",
+            "Incorporar 50 gramos de almidón de maíz y 1 cucharadita de polvo para hornear a la mezcla.",
+            "Batir las claras de huevo a punto nieve.",
+            "Incorporar las claras batidas a la mezcla de yogur y yemas con movimientos suaves y envolventes.",
+            "Verter la preparación en un molde.",
+            "Hornear por 50 minutos a 170 °C.",
+            "Opcional: Espolvorear con azúcar impalpable antes de servir."
+        ],
+        "tags_ingredientes": [
+            "Huevos",
+            "Azúcar",
+            "Yogur natural",
+            "Almidón de maíz",
+            "Polvo para hornear",
+            "Azúcar impalpable"
+        ],
+        "titulo": "Tarta de Yogur Esponjosa",
+        "url_original": "https://www.youtube.com/watch?v=xY6UND87Y7w"
+    },
+    {
+        "calidad_alimenticia": "poco saludable",
+        "comida": "merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Sodio"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Carbohidratos",
+            "Grasas a Limitar",
+            "Proteínas"
+        ],
+        "pasos": [
+            "Tamizar todos los ingredientes secos: 140g de harina multiuso, 35g de cacao en polvo, 1 cucharadita de polvo para hornear, 1/2 cucharadita de bicarbonato de sodio, 1/2 cucharadita de vainilla en polvo y 1/4 cucharadita de sal.",
+            "Añadir 150g de azúcar a los ingredientes secos y mezclar bien.",
+            "Verter gradualmente 230ml de leche, 60ml de aceite vegetal y 1 cucharadita de vinagre (o jugo de limón) a la mezcla seca y líquida.",
+            "Remover bien hasta integrar y luego añadir la leche restante, mezclando hasta obtener una masa homogénea.",
+            "Verter la masa en un molde para hornear de 16 cm de diámetro.",
+            "Colocar el molde en una vaporera con agua hirviendo.",
+            "Cocinar al vapor durante 30-60 minutos a fuego medio (hasta que esté cocido).",
+            "Probar la cocción del pastel insertando un palillo; si sale limpio, está listo.",
+            "Dejar enfriar el pastel.",
+            "Para la ganache simple de chocolate: Calentar agua para baño María.",
+            "Derretir 150g de chocolate negro con 75ml de leche al baño María, revolviendo hasta que se funda y quede suave.",
+            "Refrigerar la ganache hasta que solidifique un poco.",
+            "Desmoldar el pastel.",
+            "Dividir el pastel en 2 capas usando un hilo (cruzando los extremos del hilo y tirando).",
+            "Untar el centro del pastel con la ganache de chocolate.",
+            "Volver a derretir el chocolate restante si es necesario.",
+            "Verter el chocolate derretido sobre el pastel para cubrirlo.",
+            "Refrigerar el pastel por al menos 30 minutos.",
+            "Servir."
+        ],
+        "tags_ingredientes": [
+            "Harina multiuso",
+            "Cacao en polvo",
+            "Polvo para hornear",
+            "Bicarbonato de sodio",
+            "Vainilla en polvo",
+            "Sal",
+            "Azúcar",
+            "Leche",
+            "Aceite vegetal",
+            "Vinagre",
+            "Jugo de limón",
+            "Chocolate negro"
+        ],
+        "titulo": "Pastel de Chocolate Húmedo y Suave (Sin Huevo y Sin Horno)",
+        "url_original": "https://www.youtube.com/watch?v=f4JNZ4f3_YU"
+    },
+    {
+        "calidad_alimenticia": "poco saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Precalentar el horno con calor arriba y abajo.",
+            "En un robot de cocina o licuadora, mezclar los huevos con el azúcar.",
+            "Añadir el queso crema (debe ser alto en grasa, no fresco ni mascarpone) a la mezcla de huevos y azúcar.",
+            "Incorporar la harina de trigo (o maicena para una opción sin gluten).",
+            "Batir la mezcla durante 1 a 3 minutos, hasta que no queden grumos de queso o harina.",
+            "Agregar la nata para montar (crema de leche para repostería sin azúcar) gradualmente a la mezcla y batir hasta que esté todo bien integrado (aproximadamente 5 minutos con un buen robot).",
+            "Preparar un molde de 15 cm de diámetro y 10 cm de alto (también puede ser redondo, pero con esas medidas).",
+            "Mojar papel de horno en agua fría y forrar el interior del molde. Es recomendable usar dos capas de papel para evitar que la tarta se rompa al desmoldar.",
+            "Verter toda la mezcla en el molde preparado.",
+            "Dar un par de golpes al molde sobre la encimera para eliminar el aire del interior de la mezcla.",
+            "Hornear durante 40 minutos en el horno precalentado.",
+            "Después de los 40 minutos, apagar el horno y dejar la tarta dentro por unos minutos adicionales.",
+            "Retirar del horno y dejar enfriar a temperatura ambiente por un mínimo de 4 horas.",
+            "Para un interior más cuajado, refrigerar la tarta después de que se haya enfriado completamente a temperatura ambiente."
+        ],
+        "tags_ingredientes": [
+            "Huevos",
+            "Azúcar",
+            "Queso crema",
+            "Harina de trigo",
+            "Maicena",
+            "Nata para montar",
+            "Crema de leche"
+        ],
+        "titulo": "Tarta de Queso La Viña (San Sebastián)",
+        "url_original": "https://www.youtube.com/watch?v=feeC8vhaeXM"
+    },
+    {
+        "calidad_alimenticia": "muy saludable",
+        "comida": "almuerzo/cena",
+        "componentes_criticos": [
+            "Fibra",
+            "Sodio"
+        ],
+        "dificultad": "intermedio",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables"
+        ],
+        "pasos": [
+            "Cocinar 2 vasos de lentejas con suficiente agua hasta que estén blandas.",
+            "Retirar del fuego y dejar enfriar las lentejas.",
+            "Triturar o procesar las lentejas enfriadas con 1 plátano pequeño (banana).",
+            "Agregar pimienta negra, comino, pimentón rojo, tomillo y sal a la mezcla de lentejas.",
+            "Incorporar 2 dientes de ajo (picados o machacados) a la mezcla.",
+            "Añadir 1 cebolla rallada (colar el jugo previamente) a la mezcla.",
+            "Agregar 3 cucharadas de harina.",
+            "Incorporar gradualmente 1.5 tazas (150 gramos) de pan rallado hasta obtener una mezcla espesa y manejable.",
+            "Dejar reposar la mezcla en el refrigerador durante 20 minutos.",
+            "Formar la mezcla en 'albóndigas' o 'koftas', según se muestra en el video.",
+            "Cocinar las albóndigas de dos maneras: a. Horno: Hornear a 200 grados centígrados. b. Frito: Freír con 2 cucharadas de aceite de oliva o 100 ml de aceite, volteando con cuidado hasta dorar.",
+            "Retirar las albóndigas cocidas y colocarlas sobre papel absorbente para eliminar el exceso de aceite."
+        ],
+        "tags_ingredientes": [
+            "Lentejas",
+            "Plátano",
+            "Banana",
+            "Pimienta Negra",
+            "Comino",
+            "Pimentón Rojo",
+            "Tomillo",
+            "Sal",
+            "Ajo",
+            "Cebolla",
+            "Harina",
+            "Pan Rallado",
+            "Aceite de Oliva",
+            "Aceite Vegetal"
+        ],
+        "titulo": "Albóndigas de Lentejas Veganas",
+        "url_original": "https://www.youtube.com/watch?v=PnlND_z1vUs"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "almuerzo/cena",
+        "componentes_criticos": [
+            "Sodio",
+            "Grasas Saturadas"
+        ],
+        "dificultad": "facil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Sazonar los 4 muslos de pollo con sal y pimienta negra.",
+            "Calentar 1 cucharada de aceite de oliva en una sartén grande a fuego medio. Dorar el pollo por 5 minutos de cada lado hasta que esté bien dorado. Retirar el pollo de la sartén y reservar.",
+            "En la misma sartén, añadir 1 cucharada de mantequilla y 2 cucharadas adicionales de aceite de oliva.",
+            "Añadir la cebolla picada y cocinar a fuego bajo por 5 minutos, revolviendo frecuentemente hasta que esté blanda.",
+            "Incorporar los 3 dientes de ajo picados y cocinar por 3 minutos más.",
+            "Agregar 3 cucharaditas de pimentones (especias).",
+            "Espolvorear 2 cucharadas de harina y revolver para integrar.",
+            "Verter 1 taza de puré de tomate o añadir 2 tomates maduros triturados.",
+            "Añadir 1 taza de caldo de pollo o agua y mezclar bien.",
+            "Regresar el pollo a la sartén, asegurándose de que esté cubierto por la salsa.",
+            "Cocinar con la tapa puesta a fuego bajo por 25 minutos, o hasta que el pollo esté cocido.",
+            "Incorporar 3/4 taza de crema agria o yogur, remover suavemente y servir."
+        ],
+        "tags_ingredientes": [
+            "Pollo",
+            "Aceite de oliva",
+            "Mantequilla",
+            "Sal",
+            "Pimienta negra",
+            "Cebolla",
+            "Ajo",
+            "Pimentones",
+            "Harina",
+            "Puré de tomate",
+            "Caldo de pollo",
+            "Agua",
+            "Crema agria",
+            "Yogur"
+        ],
+        "titulo": "Pollo Cremoso en Salsa de Tomate",
+        "url_original": "https://www.youtube.com/watch?v=qrijAaPRAy4"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Fibra"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables"
+        ],
+        "pasos": [
+            "Precalentar el horno.",
+            "En un bol, batir los 5 huevos con un tenedor o varillas, sin generar volumen de aire, solo mezclando.",
+            "Añadir 500 gramos de yogur natural (endulzado, o sin azúcar con edulcorante/azúcar al gusto) y mezclar bien hasta integrar.",
+            "Incorporar la maicena y mezclar con las varillas hasta obtener una mezcla homogénea.",
+            "Preparar un molde de 17 cm forrándolo con papel de horno mojado y arrugado para que se ajuste mejor.",
+            "Verter la mezcla en el molde.",
+            "Hornear en la parte media del horno precalentado, con calor arriba y abajo, a 200°C durante los primeros 12 minutos.",
+            "Pasados los 12 minutos, bajar la temperatura a 180°C y hornear durante 35 minutos más. La tarta puede crecer y agrietarse, lo cual es normal.",
+            "Para los últimos 5 minutos, bajar la temperatura a 170°C.",
+            "Comprobar la cocción pinchando con un palillo; si sale limpio, está lista.",
+            "Retirar del horno y dejar enfriar completamente antes de desmoldar.",
+            "Servir tibia o fría, y si se desea, acompañar con dulce de leche, chocolate o helado."
+        ],
+        "tags_ingredientes": [
+            "Huevos",
+            "Yogur natural",
+            "Maicena",
+            "Azúcar",
+            "Edulcorante"
+        ],
+        "titulo": "Tarta de Yogur Fácil",
+        "url_original": "https://www.youtube.com/watch?v=PuaheuHxYMc"
+    },
+    {
+        "calidad_alimenticia": "poco saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Sodio"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Precalentar el horno a 160ºC con calor arriba y abajo.",
+            "Separar las yemas de las claras de huevos grandes (tamaño L). Reservar las claras en la nevera.",
+            "En una cacerola, combinar la leche entera, la mantequilla sin sal, el queso crema tipo Philadelphia y 50g de azúcar (o 70g para un cheesecake más dulce).",
+            "Calentar la cacerola a fuego medio hasta que el queso y la mantequilla se derritan y la mezcla sea homogénea, sin grumos. Retirar del fuego.",
+            "Rallar la piel de 1 limón, asegurándose de solo obtener la parte amarilla. Añadir la ralladura de limón a la mezcla de la cacerola.",
+            "Incorporar las yemas de huevo y una pizca de sal a la mezcla. Remover bien.",
+            "Tamizar la harina de trigo todo uso y añadirla a la mezcla. Remover muy bien hasta obtener una masa sin grumos y homogénea.",
+            "Sacar las claras de huevo de la nevera y montarlas hasta obtener picos suaves.",
+            "Cuando las claras hayan espumado, añadir 1 cucharada de jugo de limón y un tercio de los 70g de azúcar. Continuar batiendo.",
+            "Añadir la segunda parte del azúcar y seguir batiendo.",
+            "Incorporar el azúcar restante. Dejar de batir cuando las claras formen picos suaves.",
+            "Añadir una tercera parte de las claras montadas a la masa inicial (la de yemas y queso).",
+            "Integrar las claras con movimientos envolventes, de abajo hacia arriba, con cuidado.",
+            "Verter esta mezcla sobre el resto de las claras montadas e integrar todo hasta obtener una masa de un solo color, utilizando movimientos envolventes y con delicadeza.",
+            "Preparar un molde de 20 x 7.6 cm cubriendo el fondo con papel de hornear.",
+            "Verter la masa en el molde.",
+            "Con un palillo, alisar la superficie de la masa haciendo espirales.",
+            "Dar un par de golpes al molde contra la mesa para eliminar burbujas de aire.",
+            "Colocar el molde con la masa dentro de otro molde o una fuente más grande.",
+            "Añadir agua caliente a la fuente exterior, cubriendo 1/3 parte del molde con la masa (baño maría).",
+            "Hornear en el horno precalentado a 160ºC durante 40 minutos.",
+            "Transcurrido ese tiempo, bajar la temperatura del horno a 130ºC y hornear el cheesecake por otros 40 minutos.",
+            "Después del segundo horneado, apagar el horno y dejar el cheesecake dentro por 15 minutos más.",
+            "Retirar el cheesecake del horno y dejarlo reposar a temperatura ambiente durante 10 minutos.",
+            "Inclinar el molde para despegar el cheesecake de los bordes.",
+            "Desmoldar el cheesecake.",
+            "Decorar a gusto y servir. (Nota: Si se desea una textura que \"tiemble\" más, se puede reducir el tiempo total de horneado en 10-15 minutos, resultando en una estructura más suelta). "
+        ],
+        "tags_ingredientes": [
+            "Leche entera",
+            "Mantequilla sin sal",
+            "Queso crema",
+            "Azúcar",
+            "Huevos",
+            "Ralladura de limón",
+            "Sal",
+            "Harina de trigo",
+            "Jugo de limón",
+            "Agua caliente"
+        ],
+        "titulo": "Cheesecake Japonés Esponjoso",
+        "url_original": "https://www.youtube.com/watch?v=HZMTFBJ98rk"
+    },
+    {
+        "calidad_alimenticia": "muy saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables"
+        ],
+        "pasos": [
+            "Calentar la leche en una olla hasta alcanzar una temperatura de aproximadamente 85°C (185°F). Mantener a esta temperatura por unos minutos.",
+            "Retirar la leche del fuego y dejar enfriar hasta que su temperatura baje a 40-45°C (104-113°F).",
+            "Añadir una cucharada de yogur natural (con cultivos vivos activos) por cada litro de leche a la leche tibia. Mezclar suavemente para incorporar el cultivo.",
+            "Verter la mezcla en frascos o recipientes limpios, taparlos bien y colocarlos en un lugar cálido y sin corrientes de aire ni movimientos, por un período de 6 a 12 horas. El tiempo dependerá de la consistencia deseada.",
+            "Una vez que el yogur haya espesado a su gusto, refrigerarlo por al menos 4 horas antes de consumir para detener la fermentación y mejorar su textura."
+        ],
+        "tags_ingredientes": [
+            "Leche",
+            "Yogur natural (cultivo iniciador)"
+        ],
+        "titulo": "Yogurt Casero Sin Máquina",
+        "url_original": "https://www.youtube.com/watch?v=3CpHhUtdRn0"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "almuerzo/cena",
+        "componentes_criticos": [
+            "Sodio"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Grasas Saludables",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Calentar 3 litros de leche hasta que esté bien caliente.",
+            "Añadir sal a la leche caliente.",
+            "Incorporar 2 cucharadas de vinagre de sidra de manzana.",
+            "Cocinar, revolviendo, hasta que el queso se forme y el suero se separe.",
+            "Colar el queso a través de un colador o tamiz para separar el suero.",
+            "Agregar 1 cucharadita de bicarbonato de sodio al queso colado.",
+            "Añadir 120 gramos de mantequilla derretida al queso.",
+            "Revolver el queso con el bicarbonato y la mantequilla hasta que se derrita y se mezcle completamente.",
+            "Dejar enfriar el queso bajo film transparente.",
+            "Servir el queso con pan y jamón de pollo."
+        ],
+        "tags_ingredientes": [
+            "leche",
+            "sal",
+            "vinagre de sidra de manzana",
+            "bicarbonato de sodio",
+            "mantequilla",
+            "pan",
+            "jamón de pollo"
+        ],
+        "titulo": "Queso Casero Cremoso",
+        "url_original": "https://www.youtube.com/watch?v=q6uZlJR9YV4"
+    },
+    {
+        "calidad_alimenticia": "muy saludable",
+        "comida": "almuerzo/cena",
+        "componentes_criticos": [
+            "Azúcares",
+            "Fibra",
+            "Sodio"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponible",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Cortar 2 zanahorias medianas en pedazos.",
+            "Colocar las zanahorias en la licuadora.",
+            "Opcional: añadir un pedazo pequeño de jengibre a la licuadora.",
+            "Añadir 1/3 de taza de agua a la licuadora.",
+            "Licuar la mezcla hasta que quede completamente suave.",
+            "Verter la mezcla de zanahoria licuada en un bol grande.",
+            "Añadir 1 cucharadita de sal al bol.",
+            "Añadir media cucharadita de comino molido (o cualquier otra especia como pimentón, cilantro o cúrcuma) al bol.",
+            "Mezclar bien todos los ingredientes en el bol.",
+            "Moler 200g de avena enrollada para hacer harina de avena, o usar harina de avena ya preparada.",
+            "Tamizar la harina de avena sobre la mezcla húmeda.",
+            "Agregar la harina de avena gradualmente en varias tandas, mezclando bien cada vez, hasta que la masa se junte en una sola pieza.",
+            "Si la masa se siente pegajosa, añadir un poco más de harina de avena (evitar demasiada para que el pan no quede seco).",
+            "La masa debe ser ligeramente pegajosa al principio, pero esta pegajosidad disminuirá al amasarla.",
+            "Añadir 2 cucharadas de aceite de oliva a la masa.",
+            "Seguir amasando hasta que la masa pierda su pegajosidad y se vuelva suave y lisa.",
+            "Espolvorear la superficie de trabajo con harina de avena.",
+            "Darle a la masa forma de cilindro.",
+            "Cortar el cilindro en partes pequeñas e iguales.",
+            "Formar cada parte en una bola.",
+            "Sumergir cada bola en harina de avena.",
+            "Aplanar ligeramente cada bola con las manos.",
+            "Estirar cada bola en un círculo delgado con un rodillo (intentar igualar el grosor para evitar que quede crudo o crujiente).",
+            "Sacudir el exceso de harina de cada pan plano.",
+            "Calentar un sartén antiadherente.",
+            "Colocar la masa estirada en el sartén caliente.",
+            "Esperar hasta que aparezcan burbujas en la superficie.",
+            "Voltear el pan plano y repetir unas cuantas veces hasta que se infle.",
+            "Opcional: Para que infle más, colocarlo directamente sobre la llama por unos segundos (con cuidado de no quemarse).",
+            "Mientras los panes planos aún estén calientes, untar un poco de mantequilla suavemente encima (opcional).",
+            "Servir con yogur bajo en grasa mezclado con ajo y menta seca o hierbas frescas, un huevo cocido, hummus, feta bajo en grasa o pechuga de pollo a la parrilla para una comida completa."
+        ],
+        "tags_ingredientes": [
+            "Zanahorias",
+            "Avena",
+            "Jengibre",
+            "Sal",
+            "Comino",
+            "Aceite de oliva",
+            "Agua"
+        ],
+        "titulo": "Pan Plano Saludable de Zanahoria y Avena",
+        "url_original": "https://www.youtube.com/watch?v=AnFv3wH9C4E"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "almuerzo/cena",
+        "componentes_criticos": [
+            "Azúcares",
+            "Fibra",
+            "Sodio"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Cortar la berenjena en rodajas y salar. Dejar escurrir por 10 minutos para remover el exceso de agua.",
+            "Picar el perejil finamente.",
+            "En un bol, batir los 2 huevos. Añadir sal, pimienta y el perejil picado.",
+            "Incorporar los 150 g de harina poco a poco, mezclando bien hasta obtener una masa homogénea.",
+            "Añadir 1 cucharadita de levadura instantánea a la masa y mezclar.",
+            "Calentar abundante aceite vegetal en una sartén.",
+            "Sumergir las rodajas de berenjena en la masa preparada y freírlas hasta que estén doradas por ambos lados. Retirar y escurrir el exceso de aceite.",
+            "Para la salsa: picar finamente la chalota o cebolla y 1 cucharadita de alcaparras.",
+            "En un recipiente, mezclar 3 cucharadas de mayonesa con 1 cucharada de kétchup.",
+            "Añadir la chalota/cebolla picada y las alcaparras a la salsa y mezclar bien.",
+            "Servir las berenjenas fritas con la salsa preparada."
+        ],
+        "tags_ingredientes": [
+            "Berenjena",
+            "Sal",
+            "Perejil",
+            "Huevos",
+            "Pimienta",
+            "Harina",
+            "Levadura instantánea",
+            "Aceite vegetal",
+            "Chalota",
+            "Cebolla",
+            "Alcaparras",
+            "Mayonesa",
+            "Kétchup"
+        ],
+        "titulo": "Buñuelos de Berenjena Fritos con Salsa Tártara Rápida",
+        "url_original": "https://www.youtube.com/watch?v=q7uAtzZugUo"
+    },
+    {
+        "calidad_alimenticia": "poco saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Sodio",
+            "Grasas a Limitar"
+        ],
+        "dificultad": "intermedio",
+        "disponibilidad_santa_fe": "altamente disponible",
+        "macronutrientes_esenciales": [
+            "Carbohidratos",
+            "Grasas a Limitar"
+        ],
+        "pasos": [
+            "Derretir 250 g de azúcar a fuego bajo, sin tocarlo, hasta obtener un caramelo claro.",
+            "Añadir 65 g de manteca salada y mezclar constantemente.",
+            "Incorporar 200 ml de crema líquida (mínimo 30% de grasa) y mezclar constantemente durante 2 minutos.",
+            "Verter el caramelo cremoso en un recipiente y refrigerar por 15 minutos.",
+            "Después de 15 minutos, batir el caramelo durante 15 segundos y colocarlo en el congelador por 10 minutos.",
+            "Tras 10 minutos en el congelador, batir nuevamente hasta que el caramelo cambie de color, volviéndose más claro y muy cremoso."
+        ],
+        "tags_ingredientes": [
+            "Azúcar",
+            "Manteca salada",
+            "Crema líquida",
+            "Caramelo"
+        ],
+        "titulo": "Caramelo Cremoso Batido",
+        "url_original": "https://www.youtube.com/watch?v=uObU57zlx1I"
+    },
+    {
+        "calidad_alimenticia": "muy saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Fibra",
+            "Sodio"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Proteínas",
+            "Carbohidratos",
+            "Grasas Saludables"
+        ],
+        "pasos": [
+            "Remojar 400g de lentejas (naranjas o pardas) en agua con una cucharadita de limón durante toda la noche.",
+            "Al día siguiente, escurrir y enjuagar muy bien las lentejas remojadas con agua limpia.",
+            "Colocar las lentejas enjuagadas en una licuadora.",
+            "Añadir a la licuadora 1 cucharada de sal (Himalaya o marina), 1 cucharada de vainilla, 1/4 de taza de aceite y 1/2 taza de agua tibia (o leche tibia).",
+            "Licuar muy bien hasta obtener una mezcla homogénea y lo más disuelta posible, con una consistencia similar a una leche de color salmón claro.",
+            "Incorporar 5g de polvo para hornear (medio sobre de 10g) y licuar brevemente por última vez para integrar.",
+            "Verter la mezcla en un molde de silicona (o molde apto para horno).",
+            "Cubrir la superficie con semillas de girasol, presionando suavemente.",
+            "Se puede dejar reposar la mezcla en el molde durante media hora antes de hornear (opcional).",
+            "Hornear en horno medio a 180°C durante aproximadamente 45 minutos a 1 hora, dependiendo del horno.",
+            "Comprobar la cocción introduciendo un palillo o cuchillo fino; debe salir limpio.",
+            "Dejar enfriar completamente antes de desmoldar y cortar en rebanadas."
+        ],
+        "tags_ingredientes": [
+            "Lentejas",
+            "Limón",
+            "Sal",
+            "Vainilla",
+            "Aceite vegetal",
+            "Agua",
+            "Polvo para hornear",
+            "Semillas de girasol",
+            "Sin gluten",
+            "Sin huevo",
+            "Sin lácteos",
+            "Sin azúcar",
+            "Alto en proteínas",
+            "Vegano"
+        ],
+        "titulo": "Pan de Lentejas",
+        "url_original": "https://www.youtube.com/watch?v=o0TA0130Xv8"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Fibra",
+            "Sodio"
+        ],
+        "dificultad": "intermedio",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Carbohidratos",
+            "Grasas Saludables",
+            "Proteínas"
+        ],
+        "pasos": [
+            "Cortar 150g de zanahoria en trozos pequeños.",
+            "Colocar la zanahoria cortada en una licuadora.",
+            "Agregar 110ml de agua a la licuadora.",
+            "Licuar la zanahoria y el agua hasta obtener un puré suave (aproximadamente 240g de puré de zanahoria).",
+            "En un bol, combinar el puré de zanahoria con 25g de azúcar blanca y 3g de levadura seca activa. Mezclar bien.",
+            "Añadir 300g de harina de trigo y 3g de sal a la mezcla.",
+            "Mezclar bien hasta que los ingredientes se combinen y formen una masa.",
+            "Incorporar 30ml de aceite de oliva y amasar hasta que la superficie de la masa esté suave.",
+            "Cubrir la masa y dejar que duplique su tamaño (aproximadamente 1.5 horas).",
+            "Desinflar la masa para liberar las burbujas de aire.",
+            "Espolvorear un poco de harina sobre la superficie de trabajo y mover la masa a la tabla de amasar.",
+            "Dar forma a la masa y dividirla en 12 piezas.",
+            "Tomar cada pieza de masa y darle forma de bolita. Repetir con todas.",
+            "Cubrir las bolitas de masa y dejar reposar durante 15 minutos.",
+            "Tomar una bolita de masa y estirarla con un rodillo.",
+            "Opcional (Freír): Calentar una sartén a fuego bajo. Agregar un poco de aceite y extenderlo con una brocha. Freír la masa estirada durante 3-5 minutos a fuego bajo. Voltear y freír por otros 3 minutos. Continuar friendo hasta que ambos lados estén dorados.",
+            "Opcional (Hornear): Después de estirar la masa, cubrir y dejar levar por 30 minutos. Rociar un poco de agua por encima (opcional: agregar condimentos). Hornear por 12-15 minutos a 180°C (356°F). Colocar en una rejilla para enfriar."
+        ],
+        "tags_ingredientes": [
+            "Zanahoria",
+            "Agua",
+            "Azúcar",
+            "Levadura",
+            "Harina de Trigo",
+            "Sal",
+            "Aceite de Oliva"
+        ],
+        "titulo": "Panecillos de Zanahoria Caseros (Fritos o al Horno)",
+        "url_original": "https://www.youtube.com/watch?v=lwuqlJBlB7U"
+    },
+    {
+        "calidad_alimenticia": "medianamente saludable",
+        "comida": "desayuno/merienda",
+        "componentes_criticos": [
+            "Azúcares",
+            "Fibra"
+        ],
+        "dificultad": "fácil",
+        "disponibilidad_santa_fe": "altamente disponibles",
+        "macronutrientes_esenciales": [
+            "Carbohidratos",
+            "Grasas a Limitar",
+            "Proteínas"
+        ],
+        "pasos": [
+            "Precalentar el horno a 180°C y engrasar y enharinar un molde para tortas.",
+            "Lavar y rallar la cáscara de una naranja, luego exprimir su jugo. Pelar y cortar las manzanas en cubos pequeños.",
+            "En un bol grande, batir los huevos con el azúcar hasta que estén espumosos.",
+            "Agregar el aceite, el jugo y la ralladura de naranja a la mezcla de huevos y azúcar. Mezclar bien.",
+            "En otro bol, tamizar la harina con el polvo de hornear y una pizca de sal.",
+            "Incorporar gradualmente los ingredientes secos a la mezcla de líquidos, mezclando hasta obtener una masa homogénea.",
+            "Añadir los trozos de manzana a la masa y mezclar suavemente.",
+            "Verter la masa en el molde preparado y llevar al horno precalentado.",
+            "Hornear durante 35-45 minutos, o hasta que al insertar un palillo en el centro, este salga limpio.",
+            "Dejar enfriar la torta antes de desmoldar y servir."
+        ],
+        "tags_ingredientes": [
+            "Naranja",
+            "Manzana",
+            "Harina",
+            "Azúcar",
+            "Huevos",
+            "Aceite",
+            "Polvo de hornear"
+        ],
+        "titulo": "Torta Fácil de Naranja y Manzana",
+        "url_original": "https://www.youtube.com/watch?v=lO_5JAM31OE"
     }
 ]
